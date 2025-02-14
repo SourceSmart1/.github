@@ -1,2 +1,1 @@
-# .github
-Find the Best Suppliers 10X Faster. Automate Procurement with AI—100% Effortless.
+SourceSmart AI automates supplier outreach, contacting 10x more suppliers in the background while securing up to 20% better pricing through AI-driven negotiations. It compiles real-time quotes and insights into a centralized dashboard, reducing manual effort by 80%. Seamlessly integrated with your workflow, it streamlines procurement end-to-end—so you make faster, data-driven decisions with zero hassle.
